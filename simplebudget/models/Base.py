@@ -6,4 +6,4 @@ class Base(DeclarativeBase):
     pass
 
 
-engine = create_engine("sqlite:///projectname/models/db/database.db")
+engine = create_engine("sqlite:///simplebudget/models/db/database.db")

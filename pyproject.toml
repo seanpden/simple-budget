@@ -3,12 +3,12 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name="flask-mvc-pwa"
+name="simple-budget"
 version="0.0.1"
 authors=[
     { name="seanpden", email="seanden522@gmail.com" },
 ]
-description="Template for PWAs using Flask"
+description="A simple budgeting tool, special built for my personal usage"
 readme="README.md"
 requires-python=">=3.11"
 dependencies=[

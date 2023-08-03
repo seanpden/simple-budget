@@ -1,10 +1,10 @@
 TEMPLATE for a PWA application built with Flask using MVC architecture.  
 
 THINGS TO CHANGE:  
-pyproject.toml info,  
-"projectname" folder name,  
-"Template.py" model,  
-"icons" folder
+- [x] pyproject.toml info,  
+- [x] "projectname" folder name,  
+- [x] "Template.py" model,  
+- [ ] "icons" folder
 
 RUN COMMAND:
 python -m venv venv  

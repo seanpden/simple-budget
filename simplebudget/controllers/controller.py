@@ -1,8 +1,8 @@
-from projectname import app
+from simplebudget import app
 from flask import render_template
 from sqlalchemy.orm import Session
-from projectname.models.Template import Template
-from projectname.models.Base import Base, engine
+from simplebudget.models.Template import Template
+from simplebudget.models.Base import Base, engine
 
 
 @app.route("/")

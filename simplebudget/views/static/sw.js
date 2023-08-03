@@ -1,5 +1,5 @@
 const cacheName = "cache-v1";
-const precacheResources = ["/", "/manifest.json", "/foobar", "/fizzbuzz"];
+const precacheResources = ["/", "/manifest.json"];
 
 self.addEventListener("install", function (event) {
   console.log("[Service Worker] Installing Service Worker ...", event);

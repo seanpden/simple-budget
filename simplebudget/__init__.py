@@ -6,4 +6,4 @@ app = Flask(
     template_folder="views/templates",
 )
 
-import projectname.controllers.controller  # noqa: F401
+import simplebudget.controllers.controller  # noqa: F401

@@ -1,4 +1,4 @@
-from projectname.models.Base import Base
+from simplebudget.models.Base import Base
 from sqlalchemy.orm import Mapped, mapped_column
 from sqlalchemy import String
 
